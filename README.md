@@ -1,5 +1,5 @@
 # Random Quote App
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/jkrishnamurthy/pen/NZgJrG](https://codepen.io/jkrishnamurthy/pen/NZgJrG).
+ _A Pen created at CodePen.io. Original URL: [React-Random-Quote](https://codepen.io/jkrishnamurthy/full/NZgJrG).
 
 ## Available Scripts
 
